@@ -4,8 +4,7 @@ license:            BSD3
 license-file:       LICENSE
 author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>
 maintainer:         Tony Morris
-copyright:          Copyright (c) 2016, Commonwealth Scientific and Industrial Research Organisation
-(CSIRO) ABN 41 687 119 230.
+copyright:          Copyright (c) 2016, Commonwealth Scientific and Industrial Research Organisation (CSIRO) ABN 41 687 119 230.
 synopsis:           Prelude with only useful functions
 category:           Prelude
 description:        Prelude with only useful functions
