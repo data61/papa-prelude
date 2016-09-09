@@ -1,10 +1,10 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 
 module Papa.Prelude(
-  module P
+  module Pr
 ) where
 
-import Prelude as P(
+import Prelude as Pr(
 --  (!!)                       Papa.Prelude.Lens.Data.List
     Monad
   , encodeFloat
