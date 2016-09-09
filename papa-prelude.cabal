@@ -1,5 +1,5 @@
 name:               papa-prelude
-version:            0.0.2
+version:            0.1.0
 license:            BSD3
 license-file:       LICENSE
 author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>
@@ -27,11 +27,7 @@ library
 
   build-depends:
                     base >= 4.8 && < 5
-                    , papa-prelude-core >= 0.0.1 && < 0.1
-                    , papa-prelude-lens >= 0.0.1 && < 0.1
-                    , papa-prelude-semigroupoids >= 0.0.1 && < 0.1
-                    , papa-prelude-semigroups >= 0.0.1 && < 0.1
-
+                    
   ghc-options:
                     -Wall
 
