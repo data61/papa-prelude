@@ -27,10 +27,10 @@ library
 
   build-depends:
                     base >= 4.8 && < 5
-                    , papa-prelude-core >= 0.0.1 && 0.1
-                    , papa-prelude-lens >= 0.0.1 && 0.1
-                    , papa-prelude-semigroupoids >= 0.0.1 && 0.1
-                    , papa-prelude-semigroups >= 0.0.1 && 0.1
+                    , papa-prelude-core >= 0.0.1 && < 0.1
+                    , papa-prelude-lens >= 0.0.1 && < 0.1
+                    , papa-prelude-semigroupoids >= 0.0.1 && < 0.1
+                    , papa-prelude-semigroups >= 0.0.1 && < 0.1
 
   ghc-options:
                     -Wall
