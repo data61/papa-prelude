@@ -1,3 +1,7 @@
+0.1.1
+
+* Rename module export of Prelude so as not to clash with others.
+
 0.1.0
 
 * Reorganisation of all `papa` packages.
